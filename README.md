@@ -1,0 +1,1 @@
+simple distribute cache demo with spring boot 
